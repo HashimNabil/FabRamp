@@ -13,4 +13,4 @@ Fabramp is Ramp 1.4 fabable board! its based on Atmega2560 and comes with the fo
 - 12V Power terminals with 20A diode as reverse voltage protection
 - 5V input with 5A diode as reverse voltage protect
 
-![](image.jpg)
+![](image.JPG)
